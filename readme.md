@@ -6,11 +6,7 @@
 3. jupyter notebook
 
 ## Notebooks (Reihenfolge!)
-1. notebooks/01_uebung_beispieldaten.ipynb
-2. notebooks/02_datenvorbereitung.ipynb
-3. notebooks/03_modellierung_tft.ipynb
-4. notebooks/04_modellierung_lstm.ipynb
-5. notebooks/05_shap_visualisierung.ipynb
+02-01-03-04-05-06-(07-08)
 
 ## Datenquellen
 - MSS Berlin:  https://www.stadtentwicklung.berlin.de
