@@ -1,0 +1,14 @@
+# Kernbibliotheken für Datenverarbeitung, Geodaten und Modellierung.
+
+pandas
+numpy
+geopandas
+shapely
+openpyxl
+matplotlib
+seaborn
+scikit-learn
+torch
+pytorch-forecasting
+shap
+jupyter
